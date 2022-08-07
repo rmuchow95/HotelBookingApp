@@ -7,3 +7,8 @@ h2 {
 form {
   text-align: center;
 }
+body {
+  background-image: url("Images/Sunflowers.jpeg");
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+}
